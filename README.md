@@ -1,4 +1,4 @@
-# Project 5
+# Project 6
 This is a practice project help me to understand concepts of HTML and CSS. 
 ### [Deployed Link](https://sarthak-live-project-06.netlify.app/)
 ## Technologies I Learn during this Project
